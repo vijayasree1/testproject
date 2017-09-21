@@ -1,0 +1,14 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+/app/Http/Swagger/*
+/storage/*
+/storage
+/nbproject
+.idea
+.metadata
+.settings
+.vscode
